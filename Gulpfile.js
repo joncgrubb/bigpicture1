@@ -21,8 +21,6 @@ gulp.task('dist', function() {
 	.pipe(gulp.dest('dist/css'));
 });
 
-
-
 gulp.task('browserSync', function() {
   	browserSync.init( {
   		server: {
