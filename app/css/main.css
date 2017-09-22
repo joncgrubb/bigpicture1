@@ -4,11 +4,21 @@ body {
   font-family: "Josefin Slab", serif;
   color: #E0E3DA;
   width: 500px;
-  margin: auto; }
+  margin: auto;
+  border-color: #FFFFF3; }
 
 h1, h2, h3 {
   font-family: "Raleway", sans-serif;
   text-align: center;
   border: 1px solid;
   border-radius: 10px;
+  padding: 10px;
+  text-shadow: 5px 5px #566270; }
+
+.post {
+  border: 1px solid;
+  border-radius: 10px;
   padding: 10px; }
+
+.post, h1 {
+  background-color: #A593E0; }

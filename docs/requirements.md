@@ -12,7 +12,7 @@
   
 [x]  b. Make sure HTML documents reference constructed CSS files.
 
-[ ]  c. Browsersync to speed up changes.
+[x]  c. Browsersync to speed up changes.
 
 [x] 5. Install Bootstrap.
 
